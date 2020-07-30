@@ -12,7 +12,7 @@ This is a Skeletal-portal which can be modified a bit to fulfill your purpose.
 
 The minimum system requirements for using the application are:
 
-- Windows 7 or above
+- Any OS supporting python.
 - Python 3.5 or above
 - Tkinter library
 - SMTP library
